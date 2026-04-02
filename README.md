@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail08.png" width="800">
+</p>
+
 # Real-Time Facial Emotion Recognition using OpenCV
 
 A real-time **Facial Emotion Recognition System** built using **Python, OpenCV, and Deep Learning**.  
@@ -89,6 +93,12 @@ Emotion detection using deep neural networks
 Real-time emotion logging
 Face recognition integration
 Web-based dashboard
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/real-time-emotion-recognition-opencv.git)
 
 👨‍💻 Author
 S. Senthamil Selvan
